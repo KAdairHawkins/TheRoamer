@@ -7423,6 +7423,7 @@ button.bg-dark:focus {
 .mb-1,
 .my-1 {
   margin-bottom: 0.25rem !important;
+  color: #C4CFD7;
 }
 
 .ml-1,
@@ -7519,6 +7520,7 @@ button.bg-dark:focus {
 .mb-5,
 .my-5 {
   margin-bottom: 3rem !important;
+  color: #C4CFD7;
 }
 
 .ml-5,
